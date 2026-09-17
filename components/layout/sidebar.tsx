@@ -22,7 +22,7 @@ export function Sidebar() {
         <span className="flex h-9 w-9 items-center justify-center rounded-lg bg-primary text-primary-foreground">
           <AudioLines className="h-5 w-5" />
         </span>
-        <span className="text-lg font-bold tracking-tight">Resonate</span>
+        <span className="text-lg font-bold tracking-tight">Paata</span>
       </Link>
 
       <nav className="flex flex-col gap-1">

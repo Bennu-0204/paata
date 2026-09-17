@@ -19,9 +19,7 @@ export function Sidebar() {
   return (
     <aside className="hidden w-64 shrink-0 flex-col gap-4 bg-sidebar p-3 md:flex">
       <Link href="/" className="flex items-center gap-2 px-3 py-3">
-        <span className="flex h-9 w-9 items-center justify-center rounded-lg bg-primary text-primary-foreground">
-          <AudioLines className="h-5 w-5" />
-        </span>
+<img src="/placeholder-logo.png" alt="Paata Logo" className="w-9 h-9 object-contain rounded-md" />
         <span className="text-lg font-bold tracking-tight">Paata</span>
       </Link>
 

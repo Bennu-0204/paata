@@ -5,7 +5,7 @@ import { PlayerProvider } from '@/components/player/player-context'
 import { AppShell } from '@/components/layout/app-shell'
 
 export const metadata: Metadata = {
-  title: 'Resonate — Music Player',
+  title: 'Paata — Music Player',
   description: 'Stream and play millions of songs, albums, and playlists.',
   generator: 'v0.app',
   icons: {
